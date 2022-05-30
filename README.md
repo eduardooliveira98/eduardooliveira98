@@ -1,15 +1,30 @@
-## Eduardo na área!
+## Eduardo na área! Bem vindo ao meu Github, caro viajante 👋
+
+### Conhecimentos:
 
 - Desenvolvedor Back end Java ☕
+- Desenvolvedor Springboot 🍃
+- Documentação de APIs com Swagger ♊
+- Gerenciamento de APIs com Postman ✏
+- Gestão e desenvolvimento nos sistemas SAP 🟦
 - Edição de Imagens 🖼
-- Gestão de Banco de Dados Relacional/Não Relacional 🎲
+- Gestão de Banco de Dados Relacional 🎲
+
+### Aprendendo:
+- Engenharia de Software 🖥
+- DevOps ♾
+- PowerBI 📶
+- Aprofundamento em MongoDB e bancos não-relacionais 🍃
+
+<div style="display: inline_block"><br>
+  <img align="right" alt="Edu-HP" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif">
+</div>
 
 [![Meus Status](https://github-readme-stats.vercel.app/api?username=eduardooliveira98&show_icons=true&theme=cobalt)](https://github.com/eduardooliveira98/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardooliveira98&show_icons=true&theme=cobalt)](https://github.com/eduardooliveira98/github-readme-stats)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Edu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">                             
-  <img align="center" alt="Edu-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Edu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">                             <img align="center" alt="Edu-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Edu-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Edu-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Edu-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
@@ -19,7 +34,7 @@
   <img align="center" alt="Edu-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Edu-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Edu-SQLS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  
 </div>
 
 ##
